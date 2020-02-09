@@ -26,7 +26,7 @@ A principle of the HTCDS is that the standard remains as agnostic as possible to
 This respository contains several reference documents as well as field standards. 
 
 - Read this document!
-- Browse the [HTCDS Field Reference.md](https://github.com/UNMigration/HTCDS/blob/master/HTCDS Field Reference.md) document which describes the main fields as well as descriptions of the columns in the standard.
-- Download the [HTCDS Field Standards.ods](https://github.com/UNMigration/HTCDS/blob/master/HTCDS Field Standards.ods) document. If you would like to review the standard offline then download this file and open in your favourite spreadsheet program.
+- Browse the [HTCDS Field Reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS-Field-Reference.md) document which describes the main fields as well as descriptions of the columns in the standard.
+- Download the [HTCDS Field Standards.ods](https://github.com/UNMigration/HTCDS/blob/master/HTCDS-Field-Standards.ods) document. If you would like to review the standard offline then download this file and open in your favourite spreadsheet program.
 
 The HTCDS is not intended to fully describe all of the elements necessary in a case management system. However, it does offer useful ways to describe many aspects of case data relevant to human trafficking. Whether you are building a spreadsheet or a more sophisticated relationional database these standards should be a useful reference.
