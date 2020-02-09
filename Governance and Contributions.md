@@ -4,7 +4,7 @@ It is hoped that HTCDS will evolve to become a standard that is not only used by
 
 ## Stakeholders
 
-### HTCDS Sponsor and Owner
+### HTCDS Sponsor and Owner
 As the standards owner, IOM will guide the development of HTCDS, encourage adoption, and engage the wider community for contributions and review. As the sponsor, IOM will ensure the platform has the necessary funds to ensure the HTCDS has the necessary resources to support the various tools and resources associated with the standard. This standard is managed by the [CTDC](https://www.ctdatacollaborative.org/) team within IOM.
 
 ### HTCDS Developers and Governance Board
@@ -19,7 +19,7 @@ We are actively looking to grow the community. If you or your organisation would
 
 If you don't feel able to contribute on an ongoing basis but have suggestions or would like to report a bug, then the team would welcome your ideas and thoughts! To do this you need to create a github issue. An issue is a report or suggestion. To do this, first create yourself a new free github.com private account if you don't already have one. Then, browse to https://github.com/UNMigration/HTCDS and follow the instructions here to create a new issue: https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue
 
-## Development lifecycle
+## Development lifecycle
 
 HTCDS uses two processes to maintain and update the standard. The first manages major updates which contain contributions from the HTCDS developers and governing board of contributing organisations. This process adopted is:
 
