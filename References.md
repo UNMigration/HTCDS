@@ -16,7 +16,7 @@
 | E.164 phone number standard            | https://www.itu.int/rec/T-REC-E.164/                         |
 | Example of an E.164 regular expression | https://stackoverflow.com/questions/6478875/regular-expression-matching-e-164-formatted-phone-numbers |
 
-### Countries
+### Countries
 
 ISO 3166 country codes - https://www.iso.org/iso-3166-country-codes.html
 
