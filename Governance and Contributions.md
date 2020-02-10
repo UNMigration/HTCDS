@@ -1,14 +1,14 @@
 # Governance and Contributions
 
-It is hoped that HTCDS will evolve to become a standard that is not only used by many organisations but also has an active community of contributors and supports. This document summarises the approach to governing the standard.
+It is hoped that HTCDS will evolve to become a standard that is not only used by many organizations but also has an active community of contributors and supports. This document summarises the approach to governing the standard.
 
 ## Stakeholders
 
 ### HTCDS Sponsor and Owner
-As the standards owner, IOM will guide the development of HTCDS, encourage adoption, and engage the wider community for contributions and review. As the sponsor, IOM will ensure the platform has the necessary funds to ensure the HTCDS has the necessary resources to support the various tools and resources associated with the standard. This standard is managed by the [CTDC](https://www.ctdatacollaborative.org/) team within IOM.
+As the standards owner, IOM will guide the development of HTCDS, encourage adoption, and engage the wider community for contributions and review. As the sponsor, IOM works to ensure the sustainability of the platform, and the various tools and resources associated with the standard. This standard is managed by the [CTDC](https://www.ctdatacollaborative.org/) team within IOM.
 
 ### HTCDS Developers and Governance Board
-Comments and contributions to HTCDS from all interested organisations are encouraged. In addition, a core group of developers and reviewers will be responsible for ongoing change reviews and releases of HTCDS. These organisations are:
+Comments and contributions to HTCDS from all interested organizations are encouraged. In addition, a core group of developers and reviewers will be responsible for ongoing change reviews and releases of HTCDS. These organizations are:
 
 - IOM (development lead)
 - Phil Bennett (independent consultant)
@@ -21,9 +21,9 @@ If you don't feel able to contribute on an ongoing basis but have suggestions or
 
 ## Development lifecycle
 
-HTCDS uses two processes to maintain and update the standard. The first manages major updates which contain contributions from the HTCDS developers and governing board of contributing organisations. This process adopted is:
+HTCDS uses two processes to maintain and update the standard. The first manages major updates which contain contributions from the HTCDS developers and governing board of contributing organizations. This process adopted is:
 
 - Core cycle for updates every 6-12 months involving developers and review board.  **Propose → Develop → Review → Publish**
 - The second process manages comments, minor updates and recommendations from the wider community. **Propose → Approve → Develop → Review → Publish**
 
-Contributions from the wider community are strongly encouraged, and will only strengthen the standard and ensure its success. Similarly, organisations interested in being members of the development team and governing board is also strongly encouraged to contact IOM for further information.
+Contributions from the wider community are strongly encouraged, and will only strengthen the standard and ensure its success. Similarly, organizations interested in being members of the development team and governing board is also strongly encouraged to contact IOM for further information.
