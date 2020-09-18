@@ -28,6 +28,6 @@ This respository contains several reference documents as well as field standards
 - Read this document!
 - Browse the [HTCDS Field Reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Reference.md) document which describes the main fields as well as descriptions of the columns in the standard.
 - Download the [HTCDS Field Standards.ods](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Standards.ods) document. If you would like to review the standard offline then download this file and open in your favourite spreadsheet program.
-- **Data Sensitivity**: For information on how to create synthetic datasets that have the same statistical properties as the original sensitive datasets, please see [here] (https://github.com/microsoft/synthetic-data-showcase).
+- **Data Sensitivity**: For information on how to create synthetic datasets that have the same statistical properties as the original sensitive datasets, please see ([here](https://github.com/microsoft/synthetic-data-showcase))
 
 The HTCDS is not intended to fully describe all of the elements necessary in a case management system. However, it does offer useful ways to describe many aspects of case data relevant to human trafficking. Whether you are building a spreadsheet or a more sophisticated relationional database these standards should be a useful reference.
