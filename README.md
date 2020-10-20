@@ -31,3 +31,5 @@ This respository contains several reference documents as well as field standards
 - **Data Sensitivity**: For information on how to create synthetic datasets that have the same statistical properties as the original sensitive datasets, please see ([here](https://github.com/microsoft/synthetic-data-showcase)).
 
 The HTCDS is not intended to fully describe all of the elements necessary in a case management system. However, it does offer useful ways to describe many aspects of case data relevant to human trafficking. Whether you are building a spreadsheet or a more sophisticated relationional database these standards should be a useful reference.
+
+[![](https://ga-beacon.appspot.com/UA-180938215-1/UNMigration/HTCDS/readme?pixel)](https://github.com/igrigorik/ga-beacon)
