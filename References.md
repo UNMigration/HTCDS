@@ -23,3 +23,11 @@ ISO 3166 country codes - https://www.iso.org/iso-3166-country-codes.html
 ### Industries
 
 ISIC Rev v4 - https://unstats.un.org/unsd/publication/seriesM/seriesm_4rev4e.pdf
+
+### XForm
+
+XForm Spec - https://getodk.github.io/xforms-spec/
+
+### XLSForm
+
+XLSForm Spec - https://xlsform.org/en/#what-is-an-xlsform
