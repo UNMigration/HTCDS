@@ -32,6 +32,7 @@ The HTCDS Toolkit is a growing collection of tools on popular platforms which ai
 This respository contains several reference documents as well as field standards. 
 
 - Read this document!
+- Read the high level [Guidance](https://github.com/UNMigration/HTCDS/blob/master/Guidance.md).
 - Download the [HTCDS Field Reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards.ods) spreadsheet which describes the main fields. The columns in the spreadsheet are described in the [HTCDS Field Column Reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Column%20Reference.md).
 - Read the [toolkit guidance](https://github.com/UNMigration/HTCDS/tree/master/Toolkit) to see if any of these tools can help you implement HTCDS more quickly.
 - **Data Sensitivity**: For information on how to create synthetic datasets that have the same statistical properties as the original sensitive datasets, please see ([here](https://github.com/microsoft/synthetic-data-showcase)).
