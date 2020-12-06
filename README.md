@@ -1,3 +1,5 @@
+**CURRENT VERSION: 0.2**
+
 # HTCDS Introduction
 
 The Human Trafficking Case Data Standard (HTCDS) is a global format and common approach to collecting and recording case data related to human trafficking. The standard will enable organizations around the world to collect and potentially share information related to human trafficking cases in a consistent way. The HTCDS is intended to be a reference for organizations handling cases related to human trafficking, technology service providers and independent software vendors (ISVs).
@@ -19,15 +21,19 @@ The HTCDS standard intends to support the major principles behind open data stan
 
 Human trafficking and case management varies widely across geographies, organizations and contexts. Although the primary sponsor of this standard is IOM, the future success of the standard will require collaboration and contributions from a range of organizations, including technology companies, NGOs, and academia. As with other open data standards, the HTCDS is a voluntary standard whose success will depend upon a community developing and implementing the standard so that it remains relevant and useful.
 
-A principle of the HTCDS is that the standard remains as agnostic as possible to the technical solution selected by organizations for implementation. This is to ensure organizations have the broadest range of technology options available, but also to ensure the standard does not preclude new technological advancements developed in the future. More information is provided in the “implementation” section of this standard.
+A principle of the HTCDS is that the standard remains as agnostic as possible to the technical solution selected by organizations for implementation. This is to ensure organizations have the broadest range of technology options available, but also to ensure the standard does not preclude new technological advancements developed in the future. More information is # provided in the “implementation” section of this standard.
+
+# HTCDS Toolkit
+
+The HTCDS Toolkit is a growing collection of tools on popular platforms which aim to accelerate the implementation of the HTCDS standard. The toolkit implements the current version of HTCDS.
 
 # How Do I Start?
 
 This respository contains several reference documents as well as field standards. 
 
 - Read this document!
-- Browse the [HTCDS Field Reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Reference.md) document which describes the main fields as well as descriptions of the columns in the standard.
-- Download the [HTCDS Field Standards.ods](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Standards.ods) document. If you would like to review the standard offline then download this file and open in your favourite spreadsheet program.
+- Download the [HTCDS Field Reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards.ods) spreadsheet which describes the main fields. The columns in the spreadsheet are described in the [HTCDS Field Column Reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Column%20Reference.md).
+- Read the [toolkit guidance](https://github.com/UNMigration/HTCDS/tree/master/Toolkit) to see if any of these tools can help you implement HTCDS more quickly.
 - **Data Sensitivity**: For information on how to create synthetic datasets that have the same statistical properties as the original sensitive datasets, please see ([here](https://github.com/microsoft/synthetic-data-showcase)).
 
 The HTCDS is not intended to fully describe all of the elements necessary in a case management system. However, it does offer useful ways to describe many aspects of case data relevant to human trafficking. Whether you are building a spreadsheet or a more sophisticated relationional database these standards should be a useful reference.
