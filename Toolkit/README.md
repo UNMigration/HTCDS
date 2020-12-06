@@ -10,7 +10,7 @@ The current version of the toolkit comprises:
 
 Each option is useful in different ways and is relevant to different organisations and approaches to case management. Below gives some guidance on selecting an approach:
 
-##Microsoft Excel
+## Microsoft Excel
 Microsoft Excel is probably the most popular tool for managing case data. Most organisations who use Excel use the desktop tool although some also use Microsoft Excel Online. Typically, data is organised in a table, with each row representing one case / contact.
 
 **Advantages:**
@@ -41,7 +41,7 @@ Customise the spreadsheet in the following ways:
 * The date fields have been set to Short Date format (DD/MM/YYYY). Adjust this as appropriate.
 * Edit the VBA code to refine the multi-select capability by activating the Visual Basic Editor. A list of columns on which the multi-select capability is configured is in the Sheet1 VBA object and can be adjusted as necessary (especially if more columns are inserted).
 
-##XSLForm and XForm
+## XSLForm and XForm
 
 XLSForm and XForm are open standard formats designed to express a survey data model. Many common desktop and cloud-based survey tools support this standard. Platforms such as KoBoToolbox are popular with humanitarian organisations, for example.
 
@@ -52,7 +52,7 @@ The HTCDS toolkit includes an XForm and XLSForm implementation of the HTCDS Core
 Examples of survey tools include ODK, KoBoToolbox, and Survey123. To begin using the HTCDS survey, select a survey tool and import either the XForm or XLSForm file from this repository. An easy example is to follow the KoBoToolbox instructions [here](https://support.kobotoolbox.org/xls_url.html), using the following XLSForm URL:
 [https://github.com/UNMigration/HTCDS/raw/master/Toolkit/Survey/htcds_xlsform.xlsx]()
 
-##Salesforce Unmanaged Package
+## Salesforce Unmanaged Package
 
 Salesforce is a commercial cloud-based client relational management system which is a popular platform used by larger organisations. Typical uses of Salesforce for case management include:
 
