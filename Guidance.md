@@ -21,12 +21,22 @@ In reality, there is often an overlap between a core data model that describes a
 
 Sophisticated case management systems contain hundreds of fields. Many could be contextualized to a process, region or a organization’s methodology. But at a high level, the core data model of every system can be described within the context of a person, a case and the various contextual information that links the person with the case.
 
-The scope of case data in systems and services can vary significantly. For example, helplines and victim rehabilitation have very different models. This table below is a simplified summary of a data model designed to express the context of the standards offered by HTCDS.
-
 | Context                      | Description                                                  |
 | ---------------------------- | ------------------------------------------------------------ |
 | **Person Data**              | Person data may include identifiable data such as name, address, gender, occupation, family, etc. In general, the data may be separate but related to the Case record. The person is related to the case and may be a victim, perpetrator or other person connected to the organization’s Case work. |
-| **Person Case Context Data** | Case context data represents how a person is connected to the case. This may include perpetrator or victim data about the nature of the trafficking or exploitation for a particular Case. Examples include methods of control, types of exploitation and relationships between people in the context of the Case. |
+| **Person Case Context** | Case context data represents how a person is connected to the case. This may include perpetrator or victim data about the nature of the trafficking or exploitation for a particular Case. Examples include methods of control, types of exploitation and relationships between people in the context of the Case. |
 | **Case Work**                | ”Case” is typically used to articulate the work planned and performed by an organization to support one or more victims/survivors of human trafficking. In a helpline it tracks status over several months across various activities and phone calls. The data within “Case work” can include case status updates, activities, related organizations, impact/outcome measurements, referrals and personal case history. |
 
+Many systems model additional elements. Some of these are represented in HTCDS below:
+
+| Context                      | Description                                                  |
+| ---------------------------- | ------------------------------------------------------------ |
+| **Historic Trafficking Events**              | It can be useful to record a case history including occurrences of trafficking. This data typically includes location and the type of event, such as recruitment or exploitation. |
+| **Support Plans** | Support plans describe the help and care provided by a case worker. This includes relevant planning fields such as dates and objectives of the support plan. |
+| **Organisation**                | Typically, there may be more than one organisation relevant to a case. Some databases would store the names and addresses of government organisations, companies, schools, etc. |
+
 HTCDS is not intended to be a constraint and it would be normal for systems and services to expand upon the core model to meet other specific requirements. Indeed, innovations suggested by organizations around the core data model and encouraged and could be incorporated into the standard in the future.
+
+## CORE and EXTENDED
+
+HTCDS separates Core and Extended fields. Core fields are those normally considered a minimum requirement of a case management system. Other fields are a part of the Extended standard and are optional. Download the [reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards.ods) to see the fields marked as "Core".
