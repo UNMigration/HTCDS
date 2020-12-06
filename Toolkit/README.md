@@ -42,6 +42,7 @@ Customise the spreadsheet in the following ways:
 * Edit the VBA code to refine the multi-select capability by activating the Visual Basic Editor. A list of columns on which the multi-select capability is configured is in the Sheet1 VBA object and can be adjusted as necessary (especially if more columns are inserted).
 
 ##XSLForm and XForm
+
 XLSForm and XForm are open standard formats designed to express a survey data model. Many common desktop and cloud-based survey tools support this standard. Platforms such as KoBoToolbox are popular with humanitarian organisations, for example.
 
 Survey tools can help organisation capture case data. In general, surveys capture a record once, and are not usually used to update or manage existing records. (Case management software is usually used to manage and update existing case data). There are many commercial and open-source tools available, and many of them support open data standards that can describe surveys.
@@ -52,19 +53,20 @@ Examples of survey tools include ODK, KoBoToolbox, and Survey123. To begin using
 [https://github.com/UNMigration/HTCDS/raw/master/Toolkit/Survey/htcds_xlsform.xlsx]()
 
 ##Salesforce Unmanaged Package
+
 Salesforce is a commercial cloud-based client relational management system which is a popular platform used by larger organisations. Typical uses of Salesforce for case management include:
 
 * Helpline/hotline case management
 * Dedicated case management systems which are developed, operated and used by large organisations.
 * Case management software services, which are centralised multi-tenant platforms operated by specialised service organisations and used by smaller front-line organisations.
 
-Advantages:
+**Advantages:**
 
 * Salesforce is a very flexible platform offering various data model design, workflow, reporting and user interface options.
 * Salesforce offers excellent security features.
 * Provides collaboration functionality on records, potentially replacing email in many cases.
 
-Disadvantages:
+**Disadvantages:**
 
 * Salesforce is a more complicated platform to configure compared to spreadsheets or file-based products. Specialised technical expertise and support may be required.
 * Salesforce has a license cost (although free or low cost licenses are available to qualifying non-profit organisations).
@@ -81,4 +83,3 @@ The HTCDS standard contains field definitions but doesn’t strictly enforce a f
 * A custom junction object called “Connected Person or Organisation” has been created to allow a many-to-many relationship between Cases and Contacts, and Cases and Organisations.
 * A custom object called “Support Plan” represents support planning and is related to the case.
 * Historical Trafficking Event fields have been added to the Activity standard object (which would be accessible via cases, for example). It is recommended that the developer verify this design choice and whether an alternative solution such as a custom object is more appropriate for the organisation.
-
