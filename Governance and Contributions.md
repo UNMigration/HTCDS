@@ -26,4 +26,4 @@ HTCDS uses two processes to maintain and update the standard. The first manages 
 - Core cycle for updates every 6-12 months involving developers and review board.  **Propose → Develop → Review → Publish**
 - The second process manages comments, minor updates and recommendations from the wider community. **Propose → Approve → Develop → Review → Publish**
 
-Contributions from the wider community are strongly encouraged, and will only strengthen the standard and ensure its success. Similarly, organizations interested in being members of the development team and governing board are also strongly encouraged to contact IOM for further information.
+Contributions from the wider community are encouraged, and will only strengthen the standard and ensure its success. Similarly, organizations interested in being members of the development team and governing board are also encouraged to contact IOM for further information.
