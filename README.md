@@ -6,11 +6,6 @@ The Human Trafficking Case Data Standard (HTCDS) is a global format and common a
 
 Over the last few years, case management technology has become increasingly affordable and accessible to small and large organizations supporting victims on the front line. Systems range from spreadsheet databases through to more sophisticated relational database systems supporting workflows and advanced security models. Some case management systems are operated as business services and others as independent systems. Without open data standards there is a risk that a growing ecosystem of systems and services diverge in terms of definitions and data designs. This could preclude future efforts to enable process-centric integration (such as case referral solutions), and analyse data in aggregate.
 
-*This initiative was funded by a grant from the United States Department of State. The opinions, findings and conclusions stated herein are those of the authors and do not necessarily reflect those of the United States Department of State.*
-
-*This initiative is made possible by the generous support of the Global Fund to End Modern Slavery (GFEMS). The contents are the responsibility of the authors and do not necessarily reflect the views of GFEMS.*
-
-![](icon1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](icon2.jpg)
 
 # Purpose
 
@@ -46,3 +41,10 @@ This respository contains several reference documents as well as field standards
 The HTCDS is not intended to fully describe all of the elements necessary in a case management system. However, it does offer useful ways to describe many aspects of case data relevant to human trafficking. Whether you are building a spreadsheet or a more sophisticated relationional database these standards should be a useful reference.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-180938215-1/UNMigration/HTCDS/readme?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
+
+
+*This initiative was funded by a grant from the United States Department of State. The opinions, findings and conclusions stated herein are those of the authors and do not necessarily reflect those of the United States Department of State.*
+
+*This initiative is made possible by the generous support of the Global Fund to End Modern Slavery (GFEMS). The contents are the responsibility of the authors and do not necessarily reflect the views of GFEMS.*
+
+![](icon1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](icon2.jpg)
