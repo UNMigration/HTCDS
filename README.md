@@ -41,7 +41,6 @@ This respository contains several reference documents as well as field standards
 The HTCDS is not intended to fully describe all of the elements necessary in a case management system. However, it does offer useful ways to describe many aspects of case data relevant to human trafficking. Whether you are building a spreadsheet or a more sophisticated relationional database these standards should be a useful reference.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-180938215-1/UNMigration/HTCDS/readme?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
-{<img src="https://ga-beacon.appspot.com/UA-180938215-1/UNMigration/HTCDS/readme?pixel&useReferer" />}[https://github.com/igrigorik/ga-beacon]
 
 *This initiative was funded by a grant from the United States Department of State. The opinions, findings and conclusions stated herein are those of the authors and do not necessarily reflect those of the United States Department of State.*
 
