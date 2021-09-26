@@ -1,4 +1,4 @@
-**CURRENT VERSION: 0.2**
+**CURRENT VERSION: 1.0**
 
 # HTCDS Introduction
 
@@ -18,7 +18,7 @@ The primary motivations behind HTCDS are:
 
 # Open Data Standards
 
-The HTCDS standard intends to support the major principles behind open data standards. These are described fully in the OpenStand resource (https://open-stand.org/about-us/principles) and referenced in ODI’s open standards guidance. For the terms of use of the site, please see [here](https://github.com/UNMigration/HTCDS/blob/master/Terms%20of%20use.docx). 
+The HTCDS standard intends to support the major principles behind open data standards. These are described fully in the OpenStand resource (https://open-stand.org/about-us/principles) and referenced in ODI’s open standards guidance. For the terms of use of the site, please see [here](https://github.com/UNMigration/HTCDS/blob/master/Terms%20of%20Use.md). 
 
 Human trafficking and case management varies widely across geographies, organizations and contexts. Although the primary sponsor of this standard is IOM, the future success of the standard will require collaboration and contributions from a range of organizations, including technology companies, NGOs, and academia. As with other open data standards, the HTCDS is a voluntary standard whose success will depend upon a community developing and implementing the standard so that it remains relevant and useful.
 
@@ -34,7 +34,7 @@ This respository contains several reference documents as well as field standards
 
 - Read this document!
 - Read the high level [Guidance](https://github.com/UNMigration/HTCDS/blob/master/Guidance.md).
-- Download the [HTCDS Field Reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards.ods) spreadsheet which describes the main fields. The columns in the spreadsheet are described in the [HTCDS Field Column Reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Column%20Reference.md).
+- Download the [HTCDS Field Reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards%201.0.ods) spreadsheet which describes the main fields. The columns in the spreadsheet are described in the [HTCDS Field Column Reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Column%20Reference.md).
 - Read the [toolkit guidance](https://github.com/UNMigration/HTCDS/tree/master/Toolkit) to see if any of these tools can help you implement HTCDS more quickly.
 - **Data Sensitivity**: For information on how to create synthetic datasets that have the same statistical properties as the original sensitive datasets, please see ([here](https://github.com/microsoft/synthetic-data-showcase)).
 
