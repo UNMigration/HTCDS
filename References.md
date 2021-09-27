@@ -20,6 +20,14 @@
 
 ISO 3166 country codes - https://www.iso.org/iso-3166-country-codes.html
 
+### Languages
+
+ISO 639 languages https://www.iso.org/iso-639-language-codes.html
+
+### Education
+
+UNESCO International Standard Classification of Education http://uis.unesco.org/en/topic/international-standard-classification-education-isced
+
 ### Industries
 
 ISIC Rev v4 - https://unstats.un.org/unsd/publication/seriesM/seriesm_4rev4e.pdf
