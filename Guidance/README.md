@@ -1,10 +1,10 @@
 # Guidance
 
-This document offers guidance on the scope and usage of HTCDS.
+This section offers guidance on the scope and usage of HTCDS.
 
 ## Scope of HTCDS
 
-The scope of HTCDS is related to a subset of all of the components that typically make up a case management system (CMS). Whether it's a helpline system of victim case  service, a CMS is normally composed of a stack of services and components that enable different features for users. These are described below.
+The scope of HTCDS is related to a subset of all of the components that typically make up a case management system (CMS). Whether it's a helpline system of victim case service, a CMS is normally composed of a stack of services and components that enable different features for users. These are described below.
 
 | CMS Services                | Description                                                  |
 | --------------------------- | ------------------------------------------------------------ |
@@ -37,6 +37,6 @@ Many systems model additional elements. Some of these are represented in HTCDS b
 
 HTCDS is not intended to be a constraint and it would be normal for systems and services to expand upon the core model to meet other specific requirements. Indeed, innovations suggested by organizations around the core data model and encouraged and could be incorporated into the standard in the future.
 
-## CORE and EXTENDED
+## CORE Fields
 
-HTCDS separates Core and Extended fields. Core fields are those normally considered a minimum requirement of a case management system. Other fields are a part of the Extended standard and are optional. Download the [reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards.ods) to see the fields marked as "Core".
+HTCDS separates CORE from other fields. CORE fields are those normally considered a minimum requirement of a case management system. Other fields are a part of the Extended standard and are optional. Download the [reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards.ods) to see the fields marked as CORE.
