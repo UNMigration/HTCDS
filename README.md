@@ -1,4 +1,4 @@
-**CURRENT VERSION: 1.0**
+**CURRENT VERSION: 1.1**
 
 # HTCDS Introduction
 
