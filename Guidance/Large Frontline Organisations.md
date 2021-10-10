@@ -1,4 +1,4 @@
-## We are a large front-line organisations looking to implement a new case management system.
+## We are a large frontline organisations looking to implement a new case management system.
 	
 Large organisations have additional considerations when determining how to implement a new case management system. As with any new system like this, the first step is to understand the legal requirements and constraints for managing data. This will determine what type of systems and operating procedures are required. Particular consideration should be given to local or regional personal data protection requirements.
 	
