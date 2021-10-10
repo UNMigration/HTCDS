@@ -1,5 +1,14 @@
 # Revision History
 
+### Version 1.1 - 10th October 2021
+
+* Created new guidance folder
+* Guidance for adopting HTCDS
+* Guidance for small organisations
+* Guidance for large organisations
+* Guidance for helplines
+* Guidance for multi-tenant services
+
 ### Version 1.0 - 27th September 2021
 
 * Updated gender fields to IOM standard.
