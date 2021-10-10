@@ -1,4 +1,4 @@
-## We are a small front-line organisation looking to implement a new case management system.
+## We are a small line organisation looking to implement a new case management system.
 	
 As a small organisation, there are a growing number of lightweight technical applications on the market which may be relevant to your organisation. However, your first step is to understand any legal requirements that your organisation must adhere to - particularly with respect to managing personal sensitive data. Legal requirements vary around the world. For example, some include requirements for data localisation, which means that data must be stored in the same country. This might affect your decision on using cloud applications such as Google Sheets or Microsoft Excel online.
 	
