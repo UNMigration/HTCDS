@@ -1,4 +1,4 @@
-# HDCDS CORE 1.0 Survey
+# HDCDS CORE 2.0 Survey
 Please download a copy of the XLSForm and XForm files from this folder.
 
 XLSForm and XForm are open standard formats designed to express a survey data model. Many common desktop and cloud-based survey tools support this standard. Platforms such as KoBoToolbox are popular with humanitarian organisations, for example.
