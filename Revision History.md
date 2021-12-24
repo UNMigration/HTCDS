@@ -1,5 +1,15 @@
 # Revision History
 
+### Version 2.0 - 24th December 2021
+
+* Consolidated consent fields.
+* New trafficking status fields.
+* Vulnerability fields deprecated.
+* New field sections on Assessment and Planning with respect to risks and vulnerabilities for individuals, households and communities. Example questions added.
+* Additional guidance on classification of migration status and international protection.
+* Additional field definitions on classification of industries, assessment and planning and trafficking status.
+* Alignment of toolkit with v2.0
+
 ### Version 1.1 - 10th October 2021
 
 * Created new guidance folder
