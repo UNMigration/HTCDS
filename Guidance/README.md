@@ -39,4 +39,4 @@ HTCDS is not intended to be a constraint and it would be normal for systems and 
 
 ## CORE Fields
 
-HTCDS separates CORE from other fields. CORE fields are those normally considered a minimum requirement of a case management system. Other fields are a part of the Extended standard and are optional. Download the [reference](https://github.com/UNMigration/HTCDS/raw/master/HTCDS%20Field%20Standards.ods) to see the fields marked as CORE.
+HTCDS separates CORE from other fields. CORE fields are those normally considered a minimum requirement of a case management system. Other fields are a part of the Extended standard and are optional. Download the [reference](https://github.com/UNMigration/HTCDS/blob/master/HTCDS%20Field%20Standards%202.0.ods) to see the fields marked as CORE.
