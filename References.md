@@ -39,3 +39,9 @@ XForm Spec - https://getodk.github.io/xforms-spec/
 ### XLSForm
 
 XLSForm Spec - https://xlsform.org/en/#what-is-an-xlsform
+
+### IOM Publications
+
+IOM Handbook on Protection and Assistance to Migrants Vulnerable to Violence, Exploitation and Abuse - https://publications.iom.int/books/iom-handbook-migrants-vulnerable-violence-exploitation-and-abuse
+
+Reintegration Handbook - Practical guidance on the design, implementation and monitoring of reintegration assistance - https://publications.iom.int/books/reintegration-handbook-practical-guidance-design-implementation-and-monitoring-reintegration
