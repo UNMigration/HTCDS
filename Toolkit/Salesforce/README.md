@@ -1,8 +1,10 @@
 # HTCDS EXPANDED 2.0 Salesforce Unmanaged Package
-Use this URL to install the Salesforce unmanaged package into a Production organization:
+It is recommended to install the package in a Sandbox environment first to test and verify the implementation, before installing it into Production.
+
+Use this URL to install the Salesforce unmanaged package into a Production organization. You will require your Salesforce administrator login for the Production environment:
 [https://login.salesforce.com/packaging/installPackage.apexp?p0=04t4K000002Jk1N](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t4K000002ml1d)
 
-Use this URL to install the Salesforce unmanaged package into a Sandbox organization: [https://test.salesforce.com/packaging/installPackage.apexp?p0=04t4K000002Jk1N](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t4K000002ml1d)
+Use this URL to install the Salesforce unmanaged package into a Sandbox organization. You will require your Salesforce administrator login for the Sandbox environment: [https://test.salesforce.com/packaging/installPackage.apexp?p0=04t4K000002Jk1N](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t4K000002ml1d)
 
 Salesforce is a commercial cloud-based client relational management (CRM) system which is a popular platform used by larger organisations. Typical uses of Salesforce for case management include:
 
@@ -22,8 +24,6 @@ Salesforce is a commercial cloud-based client relational management (CRM) system
 * Salesforce has a license cost (although free or low cost licenses are available to qualifying non-profit organisations).
 
 The Salesforce Unmanaged Package contains the data model for HTCDS and can be used as a starter-package for any of the three uses above. An “unmanaged package” is a collection of components and metadata which can be installed in a Salesforce environment. After installation, the developer can edit and change the individual component within the package as necessary.
-
-It is recommended to install the package in a Sandbox environment first to test and verify the implementation, before installing it into Production.
 
 The package contains custom fields and objects. Normally, an implementation of Salesforce will include configuration of page layouts, record types, reports, business processes, user interface customisations and security features. The package is not intended to represent a complete case management system on Salesforce.
 
