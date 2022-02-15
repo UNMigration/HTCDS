@@ -21,7 +21,7 @@ Each template uses fields in spreadsheet columns and that represent those fields
 
 The [first template](https://github.com/UNMigration/HTCDS/raw/master/Toolkit/Excel/HTCDS%20Excel%20Spreadsheet%20v2.0.xlsx) is a simple list of fields and each row as a number. This is the simplest template and most compatible with older versions of Microsoft Excel. However, this file does not have any field validation included. Therefore the author of the spreadsheet should adapt the tool to ensure that valid picklist values and date formats are maintained.
 
-The [second template](hhttps://github.com/UNMigration/HTCDS/raw/master/Toolkit/Excel/HTCDS%20Excel%20Spreadsheet%20single%20select%20with%20validation%20v2.0.xlsx) contains the same list of fields as the first, but with the addition of Excel field validation on relevent fields. The field validation values are in the "validation" sheet.
+The [second template](https://github.com/UNMigration/HTCDS/raw/master/Toolkit/Excel/HTCDS%20Excel%20Spreadsheet%20single%20select%20with%20validation%20v2.0.xlsx) contains the same list of fields as the first, but with the addition of Excel field validation on relevent fields. The field validation values are in the "validation" sheet.
 
 The [third template](https://github.com/UNMigration/HTCDS/raw/master/Toolkit/Excel/HTCDS%20Excel%20Spreadsheet%20multi%20select%20with%20validation%20v2.0.xlsm) contains the same list of fields as the other two templates, but also includes an additional feature to enable multi-select values to be stored in Excel fields. For example, in the "Type of Exploitation" field, multiple values can be selected in one field in one row. The semi-colon is used as the delimeter.
 
