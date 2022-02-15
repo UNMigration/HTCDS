@@ -30,7 +30,7 @@ UNESCO International Standard Classification of Education http://uis.unesco.org/
 
 ### Industries
 
-ISIC Rev v4 - https://unstats.un.org/unsd/publication/seriesM/seriesm_4rev4e.pdf
+ISIC Rev v4 - https://unstats.un.org/unsd/classifications/Family/Detail/27
 
 ### XForm
 
