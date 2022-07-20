@@ -42,8 +42,6 @@ The HTCDS is not intended to fully describe all of the elements necessary in a c
 
 [![Analytics](https://ga-beacon.appspot.com/UA-180938215-1/UNMigration/HTCDS/readme?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
 
-*This initiative was funded by a grant from the United States Department of State. The opinions, findings and conclusions stated herein are those of the authors and do not necessarily reflect those of the United States Department of State.*
-
-*This initiative is made possible by the generous support of the Global Fund to End Modern Slavery (GFEMS). The contents are the responsibility of the authors and do not necessarily reflect the views of GFEMS.*
+*This initiative was funded by The Global Fund to End Modern Slavery (GFEMS) under a cooperative agreement with the United States Department of State. The opinions, findings and conclusions stated herein are those of the authors and do not necessarily reflect those of GFEMS or the United States Department of State.*
 
 ![](icon1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](icon2.jpg)
