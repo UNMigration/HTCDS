@@ -28,6 +28,8 @@ A principle of the HTCDS is that the standard remains as agnostic as possible to
 
 The HTCDS Toolkit is a growing collection of tools on popular platforms which aim to accelerate the implementation of the HTCDS standard. The toolkit implements the current version of HTCDS.
 
+You can also learn more about how to manage victim case data in a complementary [e-learning course](https://www.ecampus.iom.int/course/view.php?id=715). It is available for free, self-paced, and developed in line with the HTCDS.
+
 # How Do I Start?
 
 This respository contains several reference documents as well as field standards. 
